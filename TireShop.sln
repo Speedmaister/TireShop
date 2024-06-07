@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TireShop", "TyreShop\TireShop.csproj", "{2A7FA86A-F728-443E-BED3-2478FE715456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TireShop.Vehicle", "TireShop.Vehicle\TireShop.Vehicle.csproj", "{18415A22-1A18-44A2-A2AD-ECA7A4EACC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7FA86A-F728-443E-BED3-2478FE715456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7FA86A-F728-443E-BED3-2478FE715456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7FA86A-F728-443E-BED3-2478FE715456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7FA86A-F728-443E-BED3-2478FE715456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18415A22-1A18-44A2-A2AD-ECA7A4EACC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18415A22-1A18-44A2-A2AD-ECA7A4EACC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18415A22-1A18-44A2-A2AD-ECA7A4EACC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18415A22-1A18-44A2-A2AD-ECA7A4EACC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {930A85BD-C7DD-4D46-AD00-4B50F6F9D5C7}
+	EndGlobalSection
+EndGlobal

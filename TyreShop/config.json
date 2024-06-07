@@ -1,0 +1,15 @@
+{
+  "Manufacturers": {
+    "Toyota": [ "car" ],
+    "Honda": [ "car", "motorycle" ],
+    "KTM": [ "motorcycle" ]
+  },
+  "Mechanic": {
+    "pollingIntervalInMilliseconds": 100
+  },
+  "Simulation": {
+    "CustomerCount": 100,
+    "MechanicCount": 4
+  }
+
+}
